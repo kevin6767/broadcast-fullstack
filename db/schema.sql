@@ -1,4 +1,0 @@
-  
-DROP DATABASE IF EXISTS roster_db;
-
-CREATE DATABASE roster_db;
